@@ -1,0 +1,22 @@
+Beskriv kortfattat innebörden av följande begrepp:
+
+a) Lärhastighet
+
+Lärhastigheten är en parameter som bestämmer storleken på steget som tas under träning av en modell. 
+Den påverkar hur snabbt eller långsamt en algoritm lär sig. 
+En för hög lärhastighet kan leda till att optimala lösningar missas, medans en för låg lärhastighet kan göra inlärningsprocessen extremt långsam.
+
+b) Feedforward
+
+Detta begrepp används när man pratar om neuronnät och beskriver en typ av nätverksarkitektur där information rör sig i en enda riktning, framåt.
+Från ingångsnoder, genom dolda noder (om sådana finns) och till utgångsnoder.
+
+c) Referensdata
+
+Referensdata är de etiketterade exemplen som används för att träna och validera modeller, 
+samt att testa modellens förmåga att korrekt förutsäga eller klassificera ny data.
+
+d) Prediktion
+
+Inom området maskininlärning innebär prediktion att använda en tränad modell för att generera en utdata baserat på helt ny
+ingångsdata.
